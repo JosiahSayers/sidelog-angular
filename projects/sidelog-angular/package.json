@@ -1,6 +1,11 @@
 {
   "name": "sidelog-angular",
   "version": "1.0.0",
+  "author": {
+    "name": "Josiah Sayers",
+    "email": "josiah.sayers15@gmail.com"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^10.0.14",
     "@angular/core": "^10.0.14"
